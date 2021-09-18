@@ -8,7 +8,7 @@ public class GitsampleonenewApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitsampleonenewApplication.class, args);
-		System.out.println("test comment");
+		System.out.println("test comment.....");
 	}
 
 }
