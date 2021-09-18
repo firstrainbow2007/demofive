@@ -10,5 +10,9 @@ public class GitsampleonenewApplication {
 		SpringApplication.run(GitsampleonenewApplication.class, args);
 		System.out.println("test comment.....");
 	}
+	
+	private void myMasterMethod(){
+	  System.out.println("master method");	
+	}
 
 }
